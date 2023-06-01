@@ -10,13 +10,13 @@ The IBM Call for Code Global Challenge is an annual initiative that brings toget
 
 ## Our Achievement: Top 4 Solutions in Europe
 
-We are thrilled to announce that our team's submission has been recognized as one of the top 4 solutions in Europe for the IBM Call for Code Global Challenge 2021. This achievement reflects the dedication and hard work put into our solution, and we are honored to have been selected among a highly competitive pool of participants.
+We are thrilled to announce that our team's submission has been recognised as one of the top 4 solutions in Europe for the IBM Call for Code Global Challenge 2021. This achievement reflects the dedication and hard work put into our solution, and we are honored to have been selected among a highly competitive pool of participants.
 
 ## Solution: Immersive Language-Learning Experience with AI and Text-to-Speech
 
-Our solution focuses on revolutionizing language learning through the integration of IBM Watson services into Unity, a powerful game development platform. By leveraging the capabilities of IBM Watson, particularly in the field of natural language processing and text-to-speech synthesis, we have created an immersive language-learning experience that pushes the boundaries of traditional language education.
+Our solution focuses on revolutionising language learning through the integration of IBM Watson services into Unity, a powerful game development platform. By leveraging the capabilities of IBM Watson, particularly in the field of natural language processing and text-to-speech synthesis, we have created an immersive language-learning experience that pushes the boundaries of traditional language education.
 
-Through our solution, learners are able to interact with virtual environments and characters, engaging in realistic conversations that enhance their language proficiency. The integration of AI and text-to-speech technologies enables real-time language translation, pronunciation feedback, and interactive dialogue scenarios that adapt to the learner's level of proficiency. This approach not only makes language learning more engaging and personalized but also provides an opportunity for learners to practice in a safe and immersive environment.
+Through our solution, learners are able to interact with virtual environments and characters, engaging in realistic conversations that enhance their language proficiency. The integration of AI and text-to-speech technologies enables real-time language translation, pronunciation feedback, and interactive dialogue scenarios that adapt to the learner's level of proficiency. This approach not only makes language learning more engaging and personalised but also provides an opportunity for learners to practice in a safe and immersive environment.
 
 
 ## Getting Involved
@@ -29,7 +29,7 @@ Thank you for visiting our GitHub repository and supporting our journey in the I
 
 ## Getting started
 
-The project is currently approximately 80% complete. Some scene optimizations are required to improve the frame rate, and there is a need to connect certain scenes together.
+The project is currently approximately 80% complete. Some scene optimisations are required to improve the frame rate, and there is a need to connect certain scenes together.
 
 To run and edit the game scenes, follow these steps:
 
