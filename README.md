@@ -1,57 +1,47 @@
-# IBM Call for Code Global Challenge 2021
+# Team Submission to IBM Call for Code Global Challenge 2021
+
+## Overview
+
+Welcome to our GitHub repository showcasing our team's submission for the IBM Call for Code Global Challenge 2021. We are proud to share our innovative solution that addresses an important challenge using cutting-edge technologies. Our solution, developed with a strong focus on language learning, not only leverages the power of AI and text-to-speech but also integrates IBM Watson services into Unity, creating an immersive language-learning experience.
+
+## IBM Call for Code Global Challenge 2021
+
+The IBM Call for Code Global Challenge is an annual initiative that brings together developers, designers, and problem solvers from around the world to tackle pressing issues using technology. In 2021, the challenge centered around creating sustainable and scalable solutions to mitigate the impact of climate change. Participants were encouraged to develop innovative applications, platforms, and systems that could drive meaningful change and make a positive difference in communities worldwide.
+
+## Our Achievement: Top 4 Solutions in Europe
+
+We are thrilled to announce that our team's submission has been recognized as one of the top 4 solutions in Europe for the IBM Call for Code Global Challenge 2021. This achievement reflects the dedication and hard work put into our solution, and we are honored to have been selected among a highly competitive pool of participants.
+
+## Solution: Immersive Language-Learning Experience with AI and Text-to-Speech
+
+Our solution focuses on revolutionizing language learning through the integration of IBM Watson services into Unity, a powerful game development platform. By leveraging the capabilities of IBM Watson, particularly in the field of natural language processing and text-to-speech synthesis, we have created an immersive language-learning experience that pushes the boundaries of traditional language education.
+
+Through our solution, learners are able to interact with virtual environments and characters, engaging in realistic conversations that enhance their language proficiency. The integration of AI and text-to-speech technologies enables real-time language translation, pronunciation feedback, and interactive dialogue scenarios that adapt to the learner's level of proficiency. This approach not only makes language learning more engaging and personalized but also provides an opportunity for learners to practice in a safe and immersive environment.
 
 
-## Contents
-- [Venice of Secrets](#Venice-of-Secrets)
-  - [Contents](#contents)
-  - [Short description](#short-description)
-  - [Long desciption](#long-description)
-  - [Demo video](#demo-video)
-  - [Project roadmap](#project-roadmap)
-  - [Getting started](#getting-started)
-  - [Built with](#built-with)
-  - [Authors](#authors)
-  - [Versioning](#versioning)
+## Getting Involved
 
-## Short description
+We believe in the power of collaboration and welcome contributions from the open-source community. If you are interested in contributing to our project, please refer to the "Contributing" guidelines in the repository. We value all feedback, bug reports, and suggestions that can help us improve our solution and make it accessible to a broader audience.
 
-Learn Italian in this virtual tourism journey through Venice.
-
-## Long description
-
-Venice of Secrets is a virtual adventure game that provides the chance to learn Italian as though you were taking a holiday in Venice but at a fraction of the real price. 
-
-The key to learning a new language is to practice in the right environment and so every school across the UK offers annual school trips to relevant countries. However, despite this effort, at the end of 2019 more than 3/5ths of parents believed trips to be too costly, and 5% of parents admitted they could not afford to send their kids away on trips that could cost up to £3000. This leaves a large education gap between classmates, and it is simply unacceptable that a child’s learning curve can be shaped by such inequalities that are out of their control. Venice of Secrets aims to equalise travel advantage by offering the same educative experience through a cheaper and immersive online platform. 
-
-Venice of Secrets also identifies and addresses the harmful environmental effects of tourism. Every year there are more than 20 million visitors to Venice. These people might travel via plane, car, or train, all leaving a large carbon footprint in their wake. For those wishing to travel to practice their Italian, perhaps this cheaper and more eco-friendly option might be more desirable. 
-
-To give the best experience, the game has two main target areas. The tourism and adventure game play and the education aspect. The highest level of graphics using Unity, has created a life-like version of the city of Venice. From the plane landing to the beautiful local restaurants on every corner. Users can walk around the map freely, exploring the age-old architecture from St Mark’s Basilica to the Rialto Bridge and the Palazzo Ducale, as well as interacting with locals on the street. 
-
-Ensuring top quality Italian language teaching and practice, education has been split into three sections. The pre-topic class, the quiz, and the challenge. The first gives a lesson on anything from basic sentence structure to new and challenging vocab. The second tests knowledge in a multiple-choice format that will be required for the challenge that comes after and can be taken multiple times over. The challenge utilises the Watson Assistant API and presents a scene where the student must interact with a character that might take the form of a waitress, hotel concierge, ticket officer and many others to practice ordering food, checking in or asking for directions. To top off the whole experience, players will be able to purchase souvenirs from actual Venetian stores to add a more realistic touch to the adventure. 
-
-There are currently various language-based games on the market, such as Siberia, The Secret of Monkey Island and Broken Sword. However, these focus much more on the game aspect as opposed to providing an extensive educative experience. Venice of Secrets tackles both areas head on, providing a detailed tourist excursion whilst also giving in-depth interactive classes. 
+Thank you for visiting our GitHub repository and supporting our journey in the IBM Call for Code Global Challenge 2021. Together, we can make a positive impact and shape the future of language learning through the power of AI and immersive technologies.
 
 
-## Demo video
-
-https://youtu.be/cmpKoqqOeB4
-
-
-## Project roadmap
-![Roadmap](https://user-images.githubusercontent.com/59963655/127484686-f9fb17f7-d388-4198-822c-20f37d1ef201.png)
 
 ## Getting started
 
-The project is currently around 80% done. Some optimisation of scenes are needed in order to increase frame rate as well as some scenes need to be linked together. As of now in order to run and edit game scenes the following steps can be taken.
-- Install Unity3D Game Engine.
-- Clone Repo.
-- Ensure that the correct version of Unity is installed Unity Version 2021.1.6f1.
-- Open Unity Hub.
-- Select 'Projects' Tab.
-- Select 'Add'.
-- Locate the cloned repo and add it to the Unity Hub.
-- Open the game.
-- Edit or Play scenes as desired.
+The project is currently approximately 80% complete. Some scene optimizations are required to improve the frame rate, and there is a need to connect certain scenes together.
+
+To run and edit the game scenes, follow these steps:
+
+1. Install Unity3D Game Engine.
+2. Clone the repository.
+3. Make sure you have the correct version of Unity installed (Unity Version 2021.1.6f1).
+4. Open Unity Hub.
+5. Go to the "Projects" tab.
+6. Select "Add".
+7. Locate the cloned repository and add it to the Unity Hub.
+8. Open the game.
+9. Edit or play scenes as desired.
 
 ## Built with
 - [Unity3D](https://unity.com/) - Game Engine used
@@ -71,6 +61,6 @@ The project is currently around 80% done. Some optimisation of scenes are needed
 
 ## Versioning
 
-The game is currently run on Unity Version 2021.1.6f1.
+The game is currently running on Unity Version 2021.1.6f1.
 
 
